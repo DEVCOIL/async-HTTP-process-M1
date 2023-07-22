@@ -1,0 +1,44 @@
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:26:59.491Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:26:59.524Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:26:59.535Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:00.051Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:27:09.409Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:27:09.419Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:27:09.424Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:09.925Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:27:10.216Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:27:10.223Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:27:10.227Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:10.730Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:27:11.109Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:27:11.122Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:27:11.127Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:11.641Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:27:11.945Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:27:11.953Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:27:11.957Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:12.465Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T13:27:12.771Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T13:27:12.777Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T13:27:12.780Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T13:27:13.293Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T15:23:07.846Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T15:23:07.879Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T15:23:07.893Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T15:23:08.401Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T15:23:08.667Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T15:23:08.674Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T15:23:08.678Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T15:23:09.193Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T15:23:09.547Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T15:23:09.555Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T15:23:09.559Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T15:23:10.077Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T15:23:10.385Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T15:23:10.392Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T15:23:10.398Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T15:23:10.909Z"}
+{"data":{"int":"10"},"level":"info","message":"Received HTTP request","service":"M1","timestamp":"2023-07-22T15:30:09.888Z"}
+{"level":"info","message":"Отправлено в очередь {\"int\":\"10\"}","service":"M1","timestamp":"2023-07-22T15:30:09.923Z"}
+{"level":"info","message":"Обработано микросервисом M2","resultData":{"result":"{\"int\":\"10\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ."},"service":"M1","timestamp":"2023-07-22T15:30:09.934Z"}
+{"level":"info","message":"Закрыто соединение с RabbitMQ","service":"M1","timestamp":"2023-07-22T15:30:10.454Z"}
